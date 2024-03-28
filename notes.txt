@@ -1,0 +1,14 @@
+1] We will use app.json() to send the data to frontend.
+
+2] We are going to build rest apis in our projects.
+
+3] This apis will allow users to perform  CRUD operations on data
+  CRUD stands for create, read, update and delete.
+
+4] In moongose , model is the interface for  the mongoDB database which help mongoDB to deal with our  created schema.
+
+5]Moongose is  the abstarction layer over the mongoDB which help us to create documents in the database in defined schema .If we will not use moongose the documents will stored in multiple schemas in database created in mongoDB.
+
+6] Patch vs Put
+
+---> Patch is use to update particular property's value and all other proerties remained as it is , where , when we use put ,then the only proerty that we updated is remained and all other properties will get  deleted.
